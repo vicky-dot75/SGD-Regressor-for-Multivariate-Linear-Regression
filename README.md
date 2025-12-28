@@ -23,6 +23,7 @@ Developed by: vignesh s
 RegisterNumber:  25014344
 */
 ```
+```
 import numpy as np
 from sklearn.datasets import fetch_california_housing
 from sklearn.model_selection import train_test_split
@@ -69,6 +70,7 @@ mse=mean_squared_error(Y_test,Y_pred)
 print("Mean Squared Error:",mse)
 print(Y_pred)
 
+```
 
 
 ## Output:
