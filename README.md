@@ -69,7 +69,7 @@ mse=mean_squared_error(Y_test,Y_pred)
 print("Mean Squared Error:",mse)
 print(Y_pred)
 
-```
+
 
 ## Output:
 
